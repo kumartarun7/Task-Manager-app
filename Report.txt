@@ -1,0 +1,49 @@
+The Task Managing App is a user-friendly web application designed to streamline your task management experience.
+ Developed using cutting-edge technologies such as React.js, Node.js, and Express, this app empowers you to add,
+  update, set due dates, and delete tasks with ease.
+
+Getting Started:
+1. Accessing the App:
+To start using the Task Managing App, simply navigate to the provided URL. 
+*Save all the files in your system.
+*Run the Server.js file in the Server folder by using the terminal.
+*Run the App.js file in the Server folder by using the terminal.
+*Open a web browser and enter the following address into the search bar: http://localhost:5173/
+
+2. Creating Your First Task:
+Write your Task in the input and set due date in input panel and click on the Add button.
+
+
+3. Managing Your Tasks:
+
+3.1 Updating Tasks:
+To update a task, navigate to the task you want to modify.
+Click on the "Update" option, make the necessary changes, and save.
+
+3.2 Deleting Tasks:
+If a task is no longer relevant, select the task and click on the "Delete" option.
+Confirm the deletion to remove the task from your list.
+
+4. Setting Due Dates:
+For tasks with deadlines, utilize the due date feature.
+When creating or updating a task, set the due date.
+
+
+
+
+
+Technology Behind the Scenes:
+
+
+1. React.js:
+Powers the interactive and dynamic user interface.
+Enhances user experience with seamless updates and responsiveness.
+2. Node.js and Express:
+Provide a robust backend architecture for efficient task management.
+Ensure scalability and reliability in handling user requests.
+Conclusion:
+The Task Managing App is a powerful yet simple tool to enhance your task organization. With the ability to add,
+ update, set due dates, and delete tasks effortlessly, this app aligns with your task management needs.
+
+The integration of React.js, Node.js, and Express not only ensures a modern and responsive user 
+interface but also guarantees a reliable and scalable platform for your task management requirements.
